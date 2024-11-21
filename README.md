@@ -5,13 +5,6 @@
 
 Results-driven and innovative Android Technical Team Lead with 6+ years of experience leading and mentoring high-performing teams. Proven track record in designing, developing, and deploying robust, scalable, and secured Android applications.
 
-
-
-
-
-## 👋 Hi There,   
-A Senior Android Developer with passion and talent for crafting beautiful interfaces. A strong communicator with the ability of conveying ideas clearly with an emphasis on client satisfaction.
-
 ## About Me  <a href="https://www.github.com/am-Leon" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/am-Leon?logo=github&style=for-the-badge&color=84cc16&labelColor=134e4a"/></a>
 - 🌍  I'm based in Egypt
 - 🔭  I’m currently working on [BSAS - Business Solutions for Advanced Systems](https://www.linkedin.com/company/business-solutions-for-advanced-systems/mycompany/)
